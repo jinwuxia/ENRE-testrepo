@@ -15,7 +15,7 @@ public class ExpressionAtom {
     private List<Integer> typeIdList = new ArrayList<>(); //bind to var, it is var type;  bind to method, it is method return type.
     private String usageType=""; //use, set, dot, call
     private String resolvedManner=""; //builtin, library, super, regular, implicit
-    private int test;
+    
 
 
 
