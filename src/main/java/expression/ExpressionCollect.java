@@ -5,7 +5,7 @@ import uerr.SingleCollect;
 import java.util.ArrayList;
 
 public class ExpressionCollect {
-    private int test;
+
     // all expression container.  set id = index
     private ArrayList<ExpressionContainer> expressionContainers = new ArrayList<>();
 
